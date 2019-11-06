@@ -1,3 +1,4 @@
+*.bck
 *.py[cod]
 *.egg-info
 *.eggs
